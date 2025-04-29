@@ -1,4 +1,4 @@
-# Depurando com o GitHub Copilot
+# Debugando um Limitador de Texto
 
 ## Desafio
 Você foi contratado para auxiliar na construção de uma nova plataforma de blog. Uma das funcionalidades solicitadas é um **limitador de texto** para exibir resumos de postagens na página inicial do site. Para isso, é necessário criar um programa que receba um tamanho máximo de caracteres permitido e o conteúdo do texto original, e então gere uma versão resumida desse conteúdo.
@@ -34,8 +34,3 @@ O programa deverá retornar:
 | Aprenda a programar em Python hoje mesmo! |                           |
 | 20      | Olá, Mundo!               |
 | Olá, Mundo! |                           |
-
----
-
-## Imagem de exemplo
-![Exemplo de saída](<imagens/Sem título.jpg>)
