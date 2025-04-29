@@ -1,4 +1,4 @@
-# **Resumo dos Projetos**
+# **Bootcamp - Microsoft 50 Anos - GitHub Copilot**
 
 Este repositório contém diferentes desafios de programação, cada um com um objetivo específico e focado no aprendizado e desenvolvimento de habilidades técnicas. Abaixo, você encontrará um breve resumo de cada projeto presente nas subpastas.
 
